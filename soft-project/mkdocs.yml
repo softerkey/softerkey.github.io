@@ -1,5 +1,0 @@
-site_name: Soft Guide
-nav:
-  - Noob Quickstart: index.md
-  - Misc: index2.md
-theme: readthedocs
